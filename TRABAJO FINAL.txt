@@ -1,0 +1,29 @@
+PROGRAMAS REALIZADOS:
+1.que imprima un mensaje "Hola"  ------------------------>LISTO!
+2.que pida e imprima un numero "n"----------------------->LISTO!
+3.que lee e imprime una cadena (nombre)------------------>LISTO!
+4.que lee y suma dos numeros.---------------------------->LISTO!
+5.que lee y resta dos numeros.--------------------------->NOPUDE!
+6.genera los numeros del 1 al 9-------------------------->LISTO!
+7.que lee numeros hasta introducir el cero (0=salir)----->LISTO!
+8.que multiplica dos numeros----------------------------->LISTO! 
+9.que genera e imprime los numeros pares 2-4-6-8--------->LISTO!
+10.que genera e imprime los numeros impares 1-3-5-7-9---->LISTO!
+11.que genera la tabla del 2 tabla fija------------------>LISTO!
+12.que genera "n" tabla dependiendo del valor introducido>LISTO!
+13.menu de opciones (imprimir nombre, tel y salir-------->LISTO!
+14.que pida el numero del 1 al 5 romanos----------------->LISTO!
+15.calcular el area del rectangulo----------------------->LISTO!
+16.calcular el area del triangulo------------------------>LISTO!
+************************************
+TAREA:
+a) investigar como se hacen
+   trabajan los arreglos (array)
+b) investigar los comando para crear archivos
+
+ejemplo altas consultas.
+************************************
+Para max el proximo viernes 22/10/10
+correo: javier_joya@hotmail.com
+
+
